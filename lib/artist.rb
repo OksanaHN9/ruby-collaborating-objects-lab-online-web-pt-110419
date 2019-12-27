@@ -4,4 +4,4 @@ Class = Artist
 
 Class = Song 
 
-@song = ("")
+@song = ("Man In The Mirror")
